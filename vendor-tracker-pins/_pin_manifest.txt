@@ -1,0 +1,7 @@
+# filename | cluster | title | board | link
+ProperBooks_VendorTracker_PinterestPin01_Pain.png | Pain | Vendor Tracker Spreadsheet | Know Who You Owe & What's Due | Google Sheets & Excel Tool | Small Business Operations | [WAITING FOR LISTING URL]#pin-1
+ProperBooks_VendorTracker_PinterestPin02_Dashboard.png | Dashboard | Vendor Dashboard Spreadsheet | Open POs Amounts Owed & Overdue Flags | Supplier Tracker | Small Business Operations | [WAITING FOR LISTING URL]#pin-2
+ProperBooks_VendorTracker_PinterestPin03_POs.png | POs | Purchase Order Log Spreadsheet | Track Every PO Placed to Received | Small Business Tool | Small Business Operations | [WAITING FOR LISTING URL]#pin-3
+ProperBooks_VendorTracker_PinterestPin04_Scorecard.png | Scorecard | Vendor Scorecard Spreadsheet | Rate Quality Price & Reliability | Supplier Rating Tool | Small Business Operations | [WAITING FOR LISTING URL]#pin-4
+ProperBooks_VendorTracker_PinterestPin05_Directory.png | Directory | Vendor Directory Spreadsheet | Contacts Terms & Categories in One Place | Sheets & Excel | Small Business Operations | [WAITING FOR LISTING URL]#pin-5
+ProperBooks_VendorTracker_PinterestPin06_Value.png | Value | Vendor Management Spreadsheet | Skip $49 a Month Software | Pay Once Google Sheets Excel | Small Business Operations | [WAITING FOR LISTING URL]#pin-6

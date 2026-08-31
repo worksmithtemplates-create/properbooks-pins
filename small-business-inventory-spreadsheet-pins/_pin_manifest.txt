@@ -1,0 +1,11 @@
+# filename | cluster | title | board | link
+ProperBooks_SmallBusinessInventory_PinterestPin_01_Pain.png | Pain | Small Business Inventory Spreadsheet | Stock In Stock Out and On Hand | Sheets Excel | Small Business Inventory and Stock Control | [WAITING FOR LISTING URL]#pin-1
+ProperBooks_SmallBusinessInventory_PinterestPin_02_Two_Tabs.png | Two_Tabs | Stock In and Stock Out Log Spreadsheet | Simple Inventory Movements | Google Sheets | Small Business Inventory and Stock Control | [WAITING FOR LISTING URL]#pin-2
+ProperBooks_SmallBusinessInventory_PinterestPin_03_On_Hand.png | On_Hand | Automatic Stock On Hand Spreadsheet | Inventory Formulas Built In | Sheets and Excel | Google Sheets Templates | [WAITING FOR LISTING URL]#pin-3
+ProperBooks_SmallBusinessInventory_PinterestPin_04_Reorder.png | Reorder | Reorder Point Tracker for Etsy Sellers | Low Stock Alerts Spreadsheet | Sheets Excel | Etsy Seller Spreadsheets | [WAITING FOR LISTING URL]#pin-4
+ProperBooks_SmallBusinessInventory_PinterestPin_05_Count.png | Count | Stock Count and Variance Spreadsheet | Physical Count vs System | Google Sheets Excel | Small Business Inventory and Stock Control | [WAITING FOR LISTING URL]#pin-5
+ProperBooks_SmallBusinessInventory_PinterestPin_06_Suppliers.png | Suppliers | Supplier List Spreadsheet for Makers | Lead Times and Minimum Orders | Sheets Excel | Craft Business Tools | [WAITING FOR LISTING URL]#pin-6
+ProperBooks_SmallBusinessInventory_PinterestPin_07_Stock_Value.png | Stock_Value | Stock Value Spreadsheet by Category | Inventory Valuation for Small Business | Excel | Small Business Bookkeeping | [WAITING FOR LISTING URL]#pin-7
+ProperBooks_SmallBusinessInventory_PinterestPin_08_Shrinkage.png | Shrinkage | Track Shrinkage and Damaged Stock | Reason Codes on Every Movement | Spreadsheet | Small Business Inventory and Stock Control | [WAITING FOR LISTING URL]#pin-8
+ProperBooks_SmallBusinessInventory_PinterestPin_09_No_App.png | No_App | Inventory Spreadsheet with No Subscription | Google Sheets and Excel | One Payment | Google Sheets Templates | [WAITING FOR LISTING URL]#pin-9
+ProperBooks_SmallBusinessInventory_PinterestPin_10_Capacity.png | Capacity | Inventory Template for 1000 Products | Small Business Stock Spreadsheet | Sheets Excel | Small Business Bookkeeping | [WAITING FOR LISTING URL]#pin-10
