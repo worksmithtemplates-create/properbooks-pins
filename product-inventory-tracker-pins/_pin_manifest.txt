@@ -1,0 +1,7 @@
+# filename | cluster | title | board | link
+ProperBooks_ProductInventoryTracker_PinterestPin01_Pain.png | Pain | Inventory Tracker Spreadsheet | Reorder Alerts Before You Run Out | Google Sheets Excel | Small Business Inventory | [WAITING FOR LISTING URL]#pin-1
+ProperBooks_ProductInventoryTracker_PinterestPin02_Dashboard.png | Dashboard | Inventory Dashboard Spreadsheet | Stock Value Alerts & Top Movers | Small Business Tool | Small Business Inventory | [WAITING FOR LISTING URL]#pin-2
+ProperBooks_ProductInventoryTracker_PinterestPin03_Feature.png | Feature | Stock In Out Log Spreadsheet | Live Inventory Levels No Math | Product Tracker Template | Small Business Inventory | [WAITING FOR LISTING URL]#pin-3
+ProperBooks_ProductInventoryTracker_PinterestPin04_Makers.png | Makers | Raw Material Inventory Spreadsheet for Handmade Sellers | Track Components | Sheets Excel | Small Business Inventory | [WAITING FOR LISTING URL]#pin-4
+ProperBooks_ProductInventoryTracker_PinterestPin05_Catalog.png | Catalog | Product Catalog Spreadsheet with SKUs Costs & Margins | Master Product List | Template | Small Business Inventory | [WAITING FOR LISTING URL]#pin-5
+ProperBooks_ProductInventoryTracker_PinterestPin06_Value.png | Value | Inventory Spreadsheet Template | Skip $99 a Month Software | Pay Once Sheets & Excel Tool | Small Business Inventory | [WAITING FOR LISTING URL]#pin-6

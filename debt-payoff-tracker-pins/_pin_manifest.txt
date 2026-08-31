@@ -1,0 +1,16 @@
+# Proper Books - Debt Payoff Tracker - Pinterest pin manifest
+# filename | cluster | title | board | link
+# generated from disk, 8 pin images verified present
+
+ProperBooks_DebtPayoffTracker_PinterestPin_01_Pain.png | Pain | Debt Payoff Tracker Spreadsheet for Google Sheets and Excel | Debt Payoff Plans | [WAITING FOR LISTING URL]#pin-1
+ProperBooks_DebtPayoffTracker_PinterestPin_02_DebtFreeDate.png | DebtFreeDate | Debt Free Date Calculator Spreadsheet, Snowball and Avalanche | Debt Free Journey | [WAITING FOR LISTING URL]#pin-2
+ProperBooks_DebtPayoffTracker_PinterestPin_03_Methods.png | Methods | Debt Snowball vs Avalanche Calculator Spreadsheet Template | Debt Payoff Plans | [WAITING FOR LISTING URL]#pin-3
+ProperBooks_DebtPayoffTracker_PinterestPin_04_InterestSaved.png | InterestSaved | Debt Payoff Spreadsheet That Shows Interest Saved vs Minimums | Personal Finance Spreadsheets | [WAITING FOR LISTING URL]#pin-4
+ProperBooks_DebtPayoffTracker_PinterestPin_05_Progress.png | Progress | Debt Payoff Progress Tracker Spreadsheet with Visual Bars | Debt Free Journey | [WAITING FOR LISTING URL]#pin-5
+ProperBooks_DebtPayoffTracker_PinterestPin_06_PaymentLog.png | PaymentLog | Debt Payment Log Spreadsheet, 200 Rows, Sheets and Excel | Budget Planning and Money Management | [WAITING FOR LISTING URL]#pin-6
+ProperBooks_DebtPayoffTracker_PinterestPin_07_PayoffOrder.png | PayoffOrder | Debt Payoff Order Planner Spreadsheet for Cards and Loans | Debt Payoff Plans | [WAITING FOR LISTING URL]#pin-7
+ProperBooks_DebtPayoffTracker_PinterestPin_08_Compatibility.png | Compatibility | Debt Payoff Tracker Template for Google Sheets and Excel | Personal Finance Spreadsheets | [WAITING FOR LISTING URL]#pin-8
+
+# Media URL is intentionally blank: Pinterest bulk upload needs a public
+# direct file URL. Host the 8 PNGs, paste each URL into Media URL, then
+# replace [WAITING FOR LISTING URL] with the live Etsy listing URL.

@@ -1,0 +1,7 @@
+# filename | cluster | title | board | link
+ProperBooks_EventTracker_PinterestPin01_Pain.png | Pain | Event Planner Spreadsheet | Budget Guest List & Timeline in One | Google Sheets & Excel | Event & Party Planning | [WAITING FOR LISTING URL]#pin-1
+ProperBooks_EventTracker_PinterestPin02_Budget.png | Budget | Event Budget Tracker Spreadsheet | Planned vs Actual with Variance Flags | Party Planning | Event & Party Planning | [WAITING FOR LISTING URL]#pin-2
+ProperBooks_EventTracker_PinterestPin03_Guests.png | Guests | Guest List & RSVP Tracker Spreadsheet | Meals Plus Ones & Headcount | Party Planner Tool | Event & Party Planning | [WAITING FOR LISTING URL]#pin-3
+ProperBooks_EventTracker_PinterestPin04_Timeline.png | Timeline | Event Task Timeline Spreadsheet with Countdown | Deadlines That Flag Themselves | Planner | Event & Party Planning | [WAITING FOR LISTING URL]#pin-4
+ProperBooks_EventTracker_PinterestPin05_Vendors.png | Vendors | Event Vendor Tracker Spreadsheet | Quotes Deposits & Contacts in One Place | Sheets Excel | Event & Party Planning | [WAITING FOR LISTING URL]#pin-5
+ProperBooks_EventTracker_PinterestPin06_Value.png | Value | Event Planning Spreadsheet Template | Weddings Birthdays Corporate | Instant Download Tool | Event & Party Planning | [WAITING FOR LISTING URL]#pin-6
